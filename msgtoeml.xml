@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.797</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-015B107A78B</Company_UIN>
+    <Company_Description>Cigati Solutions is a renowned name in the field of Data Recovery &amp; Database Backup Recovery and Email Migration. It has a wide range of software solutions to recover and migrate data from different databases and email clients.</Company_Description>
+    <Product_UIN>APP-01621CC8A68</Product_UIN>
+    <Publish_on_CD>FALSE</Publish_on_CD>
+    <Search_String>Cigati MSG to EML Converter</Search_String>
+    <RSProductType></RSProductType>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Search_String_Unique></Search_String_Unique>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>Cigati Solutions</Company_Name>
+    <Address_1>A-58, 2nd Floor, Sector 57, Noida</Address_1>
+    <Address_2>2880 Zanker Road, Suite 203, San Jose</Address_2>
+    <City_Town>Noida</City_Town>
+    <State_Province>Uttar Pradesh</State_Province>
+    <Zip_Postal_Code>201301</Zip_Postal_Code>
+    <Country>India</Country>
+    <Company_WebSite_URL>http://www.cigatisolutions.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Cigati</Contact_First_Name>
+      <Contact_Last_Name>Solutions</Contact_Last_Name>
+      <Contact_Email>admin@cigatisolutions.com</Contact_Email>
+      <Author_Email>admin@cigatisolutions.com</Author_Email>
+      <Author_First_Name>Cigati</Author_First_Name>
+      <Author_Last_Name>Solutions</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>admin@cigatisolutions.com</Sales_Email>
+      <Support_Email>admin@cigatisolutions.com</Support_Email>
+      <General_Email>admin@cigatisolutions.com</General_Email>
+      <Sales_Phone>admin@cigatisolutions.com</Sales_Phone>
+      <Support_Phone>admin@cigatisolutions.com</Support_Phone>
+      <General_Phone>admin@cigatisolutions.com</General_Phone>
+      <Fax_Phone>admin@cigatisolutions.com</Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage>http://www.linkedin.com/company/cigati-solutions</LinkedinPage>
+    <TwitterCompanyPage>http://twitter.com/Cigatisolution</TwitterCompanyPage>
+    <FacebookCompanyPage>http://www.facebook.com/Cigati-Solutions-106678257735807</FacebookCompanyPage>
+    <CompanyStorePage>http://www.cigatisolutions.com/</CompanyStorePage>
+  </Company_Info>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>admin@cigatisolutions.com</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Cigati</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Solutions</NewsFeed_Author_Last_Name>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>Cigati MSG to EML Converter</Site_Site_Title>
+    <Site_Site_URL>http://www.cigatisolutions.com/msg-to-eml-converter/</Site_Site_URL>
+    <Site_Description_100>An extensive solution to convert MSG files into EML.</Site_Description_100>
+    <Site_Description_250>Cigati MSG to EML Converter Tool is a robust utility to convert MSG file data into EML format. It allows users to export multiple MSG files into EML format in a single run. Additionally, you can migrate these MSG files into various email clients.</Site_Description_250>
+    <Site_Description_450>Outlook MSG to EML Converter helps to backup MSG file data into EML format. It also facilitates users to export the MSG file data into EMLX, PST, PDF, MBOX, MSG, CSV, HTML, MHTML, etc. It provides the preview of the MSG file data before starting the conversion. This utility maintains high data integrity throughout the entire conversion task. The Free MSG to EML Converter allows you to convert the first 50 emails per folder.</Site_Description_450>
+    <Site_Keywords>MSG to EML Converter, MSG to EML Converter Tool, MSG to EML Converter Software, Outlook MSG to EML Converter, Free MSG to EML Converter, Best MSG to EML Converter, MSG to EML Conversion, MSG to EML Co</Site_Keywords>
+    <Site_Contact_Email>admin@cigatisolutions.com</Site_Contact_Email>
+    <Site_Contact_First_Name>Cigati</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Solutions</Site_Contact_Last_Name>
+  </Site>
+  <PAD_Certification_Promotion>
+    <Apply_For_Certification>N</Apply_For_Certification>
+  </PAD_Certification_Promotion>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+  </Dynamic_PAD>
+  <Program_Info>
+    <File_Info>
+      <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
+      <File_Size_Bytes>131794944</File_Size_Bytes>
+      <File_Size_K>128706</File_Size_K>
+      <File_Size_MB>125.69</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <Program_Name>Cigati MSG to EML Converter</Program_Name>
+    <Program_Version>21.9</Program_Version>
+    <Program_Release_Month>02</Program_Release_Month>
+    <Program_Release_Day>28</Program_Release_Day>
+    <Program_Release_Year>2022</Program_Release_Year>
+    <Program_Cost_Dollars>29</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>EUR</Program_Cost_Other_Code>
+    <Program_Cost_Other>26</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win2000,WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinServer,WinOther,Windows2000,Windows2003,Windows Server 2000,Windows Server 2003,Windows Server 2008,Windows Server 2008r2,Windows Server 2012,Windows Tablet PC Edition 2005,Windows Media Center Edition 2005,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>Supports all versions of Windows OS</Program_Change_Info>
+    <Program_System_Requirements>1 GHz Processor, 512 MB RAM, Minimum 500 MB Space</Program_System_Requirements>
+    <Program_Category_Class>System Utilities::File &amp; Disk Management</Program_Category_Class>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>File,Disk,Management,System,Utilities</Program_Categories>
+    <Limitations>Free demo version can only converts 50 emails per folder.</Limitations>
+    <Awards></Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+    <FacebookProductPage></FacebookProductPage>
+    <GooglePlusProductPage></GooglePlusProductPage>
+  </Program_Info>
+  <Press_Release>
+    <Press_Release>Cigati MSG to EML Converter Software is an eminent solution to convert MSG files into EML format. This software is equipped with some advanced features to enhance the overall performance of this utility. It is a secure and prominent software that ensures high data security during the conversion process. Additionally, it provides an intuitive user interface that helps novice users to navigate through the entire process.</Press_Release>
+    <Press_Release_Plain>Cigati Solutions has developed a robust utility for converting multiple MSG files into EML format. It is one of the best MSG to EML Converter that maintains the original hierarchy by keeping the file data intact. There are multiple advanced features embedded that help users to get the best result.</Press_Release_Plain>
+    <Headline>Cigati MSG to EML Converter is a magnificent utility designed to convert multiple MSG files into EML</Headline>
+    <Summary>If you want a reliable and convenient solution to convert MSG to EML then you should opt for this Outlook MSG to EML Converter.</Summary>
+    <Keywords>MSG to EML Converter, MSG to EML Converter Tool, MSG to EML Converter Software, Outlook MSG to EML Converter, Free MSG to EML Converter, Best MSG to EML Converter, MSG to EML Conversion, MSG to EML Converter Online</Keywords>
+    <Related_URL>http://www.cigatisolutions.com/msg-to-eml-converter/</Related_URL>
+  </Press_Release>
+  <Allmyapps>
+    <Allmyapps_Terms_And_Conditions>Y</Allmyapps_Terms_And_Conditions>
+  </Allmyapps>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://www.cigatisolutions.com/msg-to-eml-converter/</Application_Info_URL>
+      <Application_Order_URL>http://www.cigatisolutions.com/msg-converter-tool/purchase-now.php</Application_Order_URL>
+      <Application_Screenshot_URL>http://www.cigatisolutions.com/images/screenshot/msg-to-eml-converter/step1.png</Application_Screenshot_URL>
+      <Application_Icon_URL>http://www.cigatisolutions.com/images/favicons.png</Application_Icon_URL>
+      <Application_XML_File_URL>http://www.cigatisolutions.com/pad/msgtoeml.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://www.cigatisolutions.com/demo-version/msg-converter-tool-Demo.exe</Primary_Download_URL>
+      <Secondary_Download_URL>http://www.cigatisolutions.com/demo-version/msg-converter-tool-Demo.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>The trial version of Cigati MSG to EML Converter can be freely distributed over the Internet in an uncharged and unchanged form.</Distribution_Permissions>
+    <EULA>This EULA or End-User License Agreement is a legal agreement between you and Cigati Solutions Software. This End-User License Agreement governs your acquisition and the use of our Cigati Solutions software purchased directly from Cigati Solutions website or through an authorized distributor or reseller. This agreement contains liability disclaimers and warranty information and all other crucial licenses. So please read the complete EULA agreement before purchasing and installing the software. The EULA agreement also governs the use of the software even when you register for a free demo version of Cigati Solutions Software. By clicking on ‘accept' or even installing or using our tools, you are basically giving us the confirmation that you are agreeing with all the terms and conditions of this EULA. If you are representing a company or a firm or any other legal entity, then make sure you have the exclusive authority to bind such entity and its affiliates to these terms and conditions. If you are not entitled or don't have the authority or don't agree with the written terms &amp; conditions of this End-User License Agreement, then do not use or install the software. In addition to it, you must not accept the terms and conditions of this EULA agreement. All the mentioned terms and conditions of this EULA agreement shall apply to the software downloaded and purchased from Cigati Solutions Website or through an authorized distributor or reseller. The terms will also be applied on any Cigati Solutions updates, support services, supplements, internet based services for the given software. License Grant Cigati Solutions Software hereby grants you a complete personal, non-transferable, non- exclusive license to use the Cigati Solutions software on your devices in accordance with the terms of this End User License agreement. You are permitted to install and use the Cigati Solutions software under your control. You will be solely responsible for ensuring that your device meets the minimum requirements needed to run the software. You are not permitted to: · You being a user is not permitted to alter, edit, modify, adapt, translate or change the software. You are also not allowed to decompile, disassemble or reverse engineer the Software to be incorporated in any other tool or application. · Users are not allowed to copy, distribute, reproduce or even resell the software or a part of it for any kind of commercial use. · Allow any third party to use the Software on behalf of or for the benefit of any third party · Using the application in any way which breaks or breaches local, national or international laws. · Using the Software for any personal or professional use that Cigati Solutions considers is a breach of this EULA agreement Intellectual Property and Ownership Cigati Solutions always retain the rights and ownership of the software downloaded, installed or purchased by you. All the copyrights of the software including its intellectual property rights and any modifications of whatever nature shall remain with Cigati Solutions. Cigati Solutions is the only authority who can grant rights and licenses to use the software to third party vendors. Termination This agreement will be effective from the date you first download/ purchase / use the Software and shall continue until terminated. You may terminate the EULA at any point of time upon a written notice to Cigati Solutions. This EULA agreement will also terminate on an immediate basis if you fil to comply with any of the above mentioned terms &amp; conditions. Upon such termination, the user will have to terminate any access and use of the software on an immediate basis Governing Law This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of the governing country.</EULA>
+  </Permissions>
+  <AppStore>
+    <AppStore_AppID></AppStore_AppID>
+    <AppStore_Category></AppStore_Category>
+    <AppStore_Info_URL></AppStore_Info_URL>
+    <AppStore_Download_URL></AppStore_Download_URL>
+    <AppStore_Promo_Code_1></AppStore_Promo_Code_1>
+    <AppStore_Promo_Code_2></AppStore_Promo_Code_2>
+    <AppStore_Promo_Code_3></AppStore_Promo_Code_3>
+    <AppStore_Supported_Devices></AppStore_Supported_Devices>
+    <AppStore_Other_Applications></AppStore_Other_Applications>
+    <AppStore_Advantages_And_Unique_Features></AppStore_Advantages_And_Unique_Features>
+    <AppStore_Awards_And_Ratings></AppStore_Awards_And_Ratings>
+  </AppStore>
+  <Program_Descriptions>
+    <English>
+      <Keywords>MSG to EML Converter, MSG to EML Converter Tool, MSG to EML Converter Software, Outlook MSG to EML Converter, Free MSG to EML Converter, Best MSG to EML Converter, MSG to EML Conversion, MSG to EML Converter Online</Keywords>
+      <Char_Desc_45>MSG to EML Converter</Char_Desc_45>
+      <Char_Desc_80>An extensive solution to convert MSG files into EML.</Char_Desc_80>
+      <Char_Desc_250>Cigati MSG to EML Converter Tool is a robust utility to convert MSG file data into EML format. It allows users to export multiple MSG files into EML format in a single run. Additionally, you can migrate these MSG files into various email clients.</Char_Desc_250>
+      <Char_Desc_450>Outlook MSG to EML Converter helps to backup MSG file data into EML format. It also facilitates users to export the MSG file data into EMLX, PST, PDF, MBOX, MSG, CSV, HTML, MHTML, etc. It provides the preview of the MSG file data before starting the conversion. This utility maintains high data integrity throughout the entire conversion task. The Free MSG to EML Converter allows you to convert the first 50 emails per folder.</Char_Desc_450>
+      <Char_Desc_2000>Cigati MSG to EML Converter Software is a modern-day software with an interactive interface. It doesn't require to sound technical for operating this software. It is compatible with both technical and non-technical users. This utility helps you to convert MSG file data into EML and other file formats. Users can verify the MSG file data in the preview panel of this utility. You can add single or multiple files/folders to convert them into EML files. After installing the Cigati MSG to EML Converter, you need to run it as an administrator. Now, choose the single or multiple MSG files that you want to convert. Then, you can verify the file data from its preview section. Here, it provides the saving options, you can opt for EML format from the Saves/Backup/Migrate As option. Here, you can specify the Mail Filter along with the Naming convention and Destination path. Then, check on the advanced features provided by this utility. After that, you can click on the Convert button to initiate the process. Users can also download the report of this entire conversion task. With the help of this MSG to EML Converter, users can also migrate their MSG files into several email clients including, Gmail, Yahoo Mail, Office 365, Thunderbird, AOL, Hotmail, IMAP, etc. This advanced utility ensures high data security by maintaining the original file hierarchy throughout the entire process. You can opt for Single, Administrator, Technician, and Enterprise licenses according to your preferences. Additionally, It provides a free trial version to experience its advanced functionality. You can smoothly operate this utility in all the different versions of Windows OS.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>
